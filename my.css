@@ -1,0 +1,30 @@
+body {
+        
+        margin: 0;
+        min-height: 100vh;
+        background: linear-gradient(135deg, #00ff00, #0000ff)
+    }
+    
+    .content {
+        text-align: center;
+        padding: 10px;
+    }
+    
+    ul {
+        list-style-position: inside;
+        padding-left: 0;
+        display: inline-block;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    h1 {
+        color: rgb(97, 199, 168);
+        text-align: center;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    }
+    h2 {
+        color: rgb(107, 136, 233);
+        text-align: center;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    }
+
